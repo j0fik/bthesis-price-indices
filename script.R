@@ -7,7 +7,7 @@
 
 #Struktura priecinkov:
 #parent_folder/
-#├── skript.R              (skript)
+#├── script.R              (skript)
 #├── data/                 (priecinok so vstupnymi datami)
 #│    ├── wana.csv        
 #│    └── wcso.csv
